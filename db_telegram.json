@@ -2,6 +2,6 @@
     "owners": ["123456789"],
     "admins": ["987654321"],
     "resellers": [],
-    "tokens": ["token1", "token2"],
+    "tokens": ["your_valid_token"],
     "blacklist": []
 }
