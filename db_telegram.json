@@ -1,7 +1,4 @@
 {
-    "owners": ["123456789"],
-    "admins": ["987654321"],
-    "resellers": [],
+    
     "tokens": [""],
-    "blacklist": []
 }
