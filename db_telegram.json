@@ -1,5 +1,13 @@
 {
-  "owners": ["7661413064"],
-  "admins": ["7661413064"],
-  "tokens": ["", "your-secret-token-2"]
+  "owners": [
+    "7661413064"
+  ],
+  "admins": [
+    "7661413064"
+  ],
+  "tokens": [
+    "",
+    "your-secret-token-2",
+    "8131628924:AAHmoCNtbdsc3UvszfFnJQDGVtyCdHcuTDQ"
+  ]
 }
