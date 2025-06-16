@@ -9,5 +9,13 @@
     "",
     "your-secret-token-2",
     ""
+  ],
+  "searchHistory": [
+    {
+      "query": "+62895320447346",
+      "userId": "7661413064",
+      "timestamp": "2025-06-16T11:33:53+07:00",
+      "results": "🔍 *Mencari informasi publik untuk: +62895320447346*\n\n⚠ Verifikasi nomor telepon tidak tersedia (API key Numverify tidak diatur).\n\n*Catatan*: Informasi diambil dari sumber publik. Gunakan dengan bijak dan hormati privasi orang lain.\n*Waktu*: 16 June 2025, 11:33:53"
+    }
   ]
 }
